@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423320835502",
+    "project_id": "fir-course2024",
+    "storage_bucket": "fir-course2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423320835502:android:fcf8ecbe0a78682689e43f",
+        "android_client_info": {
+          "package_name": "onlyTest.example.firebase_course_weal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbUGPjxg1aw1VRMq6upa6w516mZs88iBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
